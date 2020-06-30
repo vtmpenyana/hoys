@@ -232,6 +232,14 @@ html {
 
 	.sub-footer {
 		justify-content: space-between;
-		margin: 65px 50px;
+		margin: 65px 5px;
+	}
+
+	.social p{
+		margin: 10px 10px;
+	}
+
+	.social {
+		margin:0px;
 	}
 }

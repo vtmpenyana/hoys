@@ -214,15 +214,16 @@ html {
 	}
 
 	.image-holder {
-		height: 200px;
-		width: 200px;
+		height: 300px;
+		width: 300px;
 		border-radius: 50%;
 		align-self: center;
+		margin: 20px;
 	}
 
 	.image-holder img {
-		height: 200px;
-		width: 150px;
+		height: 300px;
+		width: 300px;
 	}
 
 	.sub-footer {

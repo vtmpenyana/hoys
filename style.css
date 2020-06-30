@@ -213,6 +213,10 @@ html {
 		grid-gap: 	20px;
 	}
 
+	.btn-primary {
+		margin: 5px;
+	}
+
 	.image-holder {
 		height: 300px;
 		width: 300px;
